@@ -1,0 +1,17 @@
+# Environment variables — NEVER commit this
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (optional — remove these lines if you want to track them)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
